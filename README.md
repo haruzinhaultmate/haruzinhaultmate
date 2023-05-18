@@ -1,10 +1,8 @@
+## Olá! Eu sou meu nome e Gabriel 🖐️
 
-- 🔭 Atualmente estou trabalhando em javascript
-- 🌱 atualmente estou abrindo um pequeno negocio 
-- 👯 estou predestinado a ajudar a alavancar a empresa 
-- 🤔 estou procurando ajudar a todes 
-- 💬 pode perguntar o que quiser
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact
+
+<a href = "mailto:gabriel.oliveira80@yahoo.com"><img src="https://img.shields.io/badge/ yahoo-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href=https://www.linkedin.com/in/gabriel-joaquim-a2b493219/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href=https://www.instagram.com/_____haruyuki________/?next target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
