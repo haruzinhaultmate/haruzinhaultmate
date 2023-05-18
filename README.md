@@ -9,3 +9,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruzinhaultmate&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruzinhaultmate&layout=compact)](https://github.com/haruzinhaultmate/github-readme-stats)
+
+Essas são as linguagens que eu 'aprendi com o decorrer do meu curso 
+
+<div style="display: inline_block">
+
+  
+  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+</div><br/>
